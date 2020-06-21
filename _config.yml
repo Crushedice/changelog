@@ -1,34 +1,34 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: RusticalandLauncher Changelog #(required)
 
 # Website Description for search engines (optional)
-description: "Keep yourself up to date with our new product features"
+description: ""
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: Updates # (optional)
+heading: Changelog # (optional)
 
 # absolute or relative path of logo
 logo: /assets/images/logo.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: https://Rusticaland.net # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site"  # (required)
+url: "https://updates.Rusticaland.net"  # (required)
 
 baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
+github: Crushedice/changelog # (required)
 
 # remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
+star-badge: false  #(optional)
 
 # remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+watch-badge: false #(optional)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
 rss-feed-icon: true #(optional)
